@@ -1,0 +1,2 @@
+o24,Ordenadores 24,25,Si,25,Si,No
+o25,Ordenadores 25,30,Si,30,Si,No
